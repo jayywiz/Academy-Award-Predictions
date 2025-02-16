@@ -4,7 +4,7 @@ Welcome to the **Oscar Predictions 2025** project! This repository is dedicated 
 
 ---
 
-## 🔍 Key Focus Areas
+## Key Focus Areas
 This project aims to predict Oscar winners in the following categories:
 - **Best Picture**
 - **Best Director**
@@ -16,21 +16,21 @@ Trends and insights from past awards are analyzed to uncover the factors that co
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 The predictions are powered by data from:
 - [OMDb API](https://www.omdbapi.com/) for IMDb ratings and box office revenue.
 - [TMDb API](https://developers.themoviedb.org/) for popularity scores and additional metadata.
 
 ---
 
-## 📈 Tech Stack
+## Tech Stack
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
 - **Machine Learning Models**: Regression, SVMs, Decision Trees, and Neural Networks
 
 ---
 
-## 🌟 Project Goals
+## Project Goals
 The primary objectives of this project are to:
 - Analyze trends and patterns in past Academy Awards data.
 - Build an intuitive and accurate prediction model.
@@ -38,7 +38,7 @@ The primary objectives of this project are to:
 
 ---
 
-## 🔗 Explore the Project
+## Explore the Project
 Check out the project website here: [Oscar Predictions Project](https://sites.google.com/view/oscars-unveiled/home)
 
 ---
